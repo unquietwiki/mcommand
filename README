@@ -1,0 +1,6 @@
+mcommand was an attempt to use IronRuby to automate some Windows-based tasks
+against multiple files. It appears that IronRuby itself has fallen out of
+further development. In any case, this code may have use for someone.
+
+Michael Adams
+unquietwiki.com , May 2016
